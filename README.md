@@ -1,2 +1,2 @@
-# apps
-Sasthya Seba All Apps Link
+# dapps
+Sasthya Seba All Apps Link for Doctors.
